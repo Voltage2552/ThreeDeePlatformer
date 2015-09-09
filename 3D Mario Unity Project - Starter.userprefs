@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Mario\Scripts\ControllerSystem.js">
+    <Files>
+      <File FileName="Assets\Mario\Scripts\ControllerSystem.js" Line="631" Column="25" />
+      <File FileName="Assets\Mario\Scripts\ControllerColliderGrab.js" Line="16" Column="10" />
+      <File FileName="Assets\Mario\Scripts\ControllerColliderAttack.js" Line="16" Column="1" />
+      <File FileName="Assets\Mario\Scripts\EnemyController.js" Line="50" Column="2" />
+      <File FileName="Assets\Mario\Scripts\ControllerColliderHurt.js" Line="10" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
